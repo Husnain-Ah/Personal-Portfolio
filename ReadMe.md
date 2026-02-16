@@ -18,11 +18,14 @@ A modern React-based portfolio site built with Vite to showcase my skills and si
 
 ## Project Structure
 
-- `index.html` — Entry point for the application
-- `src/main.jsx` — React application entry point
-- `src/App.jsx` — Root React component with site header
-- `src/index.css` — Global styles
-- `package.json` — Project configuration and dependencies
+ - `index.html` — Entry point for the application
+ 
+ - `styles.css` — Global styles
+ 
+ - `src/main.jsx` — React application entry point
+
+ - `src/App.jsx` — Root React component 
+
 
 
 ## Getting Started
